@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "serverExtensionTest",
+  "description": "serverExtensionTest settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
